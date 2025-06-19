@@ -1,0 +1,9 @@
+gpt2/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ckpt
+*.pt
+*.pth
+Training_Llm/
